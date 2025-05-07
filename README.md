@@ -1,4 +1,4 @@
-# 👋 Hello! I'm OncFuturee
+# 👋 你好！我是 OncFuturee
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OncFuturee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OncFuturee&layout=compact&theme=radical)
 
@@ -13,13 +13,10 @@
 
 ## 📬 联系我
 - **邮箱**：y481993929@163.com
-- **LinkedIn**：[你的LinkedIn链接]
-- **Twitter**：[你的Twitter链接]
 
 ## 🏆 我的成就
-- [成就1，如获得某技术比赛奖项]
-- [成就2，如参与某知名开源项目贡献]
+- null
 
 ## 🌱 我正在学习
-- [正在学习的技术1]
-- [正在学习的技术2]
+- Spring
+- Go
