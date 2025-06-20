@@ -9,7 +9,7 @@
   - 框架/库：React, Vue, Django, Flask
   - 数据库：MySQL, MongoDB
   - 其他：Git, Docker, CI/CD
-- **兴趣**：探索新技术、开源项目、解决复杂问题
+- **兴趣**：code
 
 ## 📬 联系我
 - **邮箱**：y481993929@163.com
