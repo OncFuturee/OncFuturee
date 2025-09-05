@@ -1,4 +1,4 @@
-# 👋 你好！我是 OncFuturee.
+# 👋 Hi there! I am OncFuturee.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OncFuturee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OncFuturee&layout=compact&theme=radical)
 
